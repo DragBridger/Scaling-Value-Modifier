@@ -3,7 +3,7 @@ Scaling Value Modifier
 
 made by AI
 '''
-# dragi kun tqo blead
+# dragi kun tqo blead !
 import winreg
 import ctypes
 import sys
