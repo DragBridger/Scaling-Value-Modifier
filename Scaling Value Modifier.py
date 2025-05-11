@@ -1,3 +1,9 @@
+'''
+Scaling Value Modifier
+
+made by AI
+'''
+
 import winreg
 import ctypes
 import sys
