@@ -3,7 +3,7 @@ Scaling Value Modifier
 
 made by AI
 '''
-# By AI !!! but modified by DragBridger
+
 import winreg
 import ctypes
 import sys
